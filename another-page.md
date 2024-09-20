@@ -4,6 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+Coucou c'est la deuxieme page
 
 [back](./)
