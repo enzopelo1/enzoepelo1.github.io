@@ -19,6 +19,9 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  * Pate matifiante <span style="color: #FF8700">8,99€ </span>
  * Gels nettoyants <span style="color: #FF8700">21,32€ </span>
 
+## Un barber pour n'importe qui 
+
+Voici une photo d'un axolotl qui se fait couper les cheveux
 
 
 
