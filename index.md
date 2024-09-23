@@ -22,6 +22,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Un barber pour n'importe qui 
 
 Voici une photo d'un axolotl qui se fait couper les cheveux
+![Photo](img/axolotl.jpg)
 
 
 
