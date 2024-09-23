@@ -86,6 +86,6 @@ Voici une photo d'un <span style="color: #FF8700">Axolotl</span> qui se fait cou
 
 ---
 
-### <span style="color:#4682B4;">Réservez dès maintenant pour une expérience unique et raffinée !</span>
+### <span style="color:#FF8700;">Réservez dès maintenant pour une expérience unique et raffinée !</span>
 
 
