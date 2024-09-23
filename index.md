@@ -72,9 +72,9 @@ Voici une photo d'un <span style="color: #FF8700">Axolotl</span> qui se fait cou
 
 ## <span style="color:#4682B4;">Suivez-nous sur les réseaux sociaux</span>
 
-- <span style="color:#FF8700;">[Instagram](http://instagram.com/gentlematesbarbershop)</span>
-- <span style="color:#FF8700;">[Facebook](http://facebook.com/gentlematesbarbershop)</span>
-- <span style="color:#FF8700;">[Twitter](http://twitter.com/gentlematesbarber)</span>
+- [Instagram](http://instagram.com/gentlematesbarbershop)
+- [Facebook](http://facebook.com/gentlematesbarbershop)
+- [Twitter](http://twitter.com/gentlematesbarber)
 
 ---
 
