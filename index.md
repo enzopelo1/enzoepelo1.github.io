@@ -12,7 +12,7 @@ layout: default
 
 ---
 
-## <span style="color:#2E8B57;">Bienvenue dans le meilleur salon de coiffure pour hommes !</span>
+## <span style="color:#4682B4;">Bienvenue dans le meilleur salon de coiffure pour hommes !</span>
 
 Notre équipe de barbiers professionnels vous accueille dans une ambiance chaleureuse et élégante pour prendre soin de votre style. Que vous ayez besoin d'une coupe, d'un rasage traditionnel, ou d'un soin de barbe, nous sommes là pour vous offrir une expérience unique.
 
@@ -41,7 +41,7 @@ Taillez et structurez votre barbe à la perfection avec nos experts.
 
 ---
 
-## <span style="color:#D2691E;">Nos Produits</span>
+## <span style="color:#4682B4;">Nos Produits</span>
 
 Nous proposons également une large gamme de produits de soins pour hommes, notamment des huiles pour barbe, des pommades coiffantes et des lotions après-rasage. Tous nos produits sont disponibles à l'achat en magasin.
 
@@ -52,14 +52,14 @@ Nous proposons également une large gamme de produits de soins pour hommes, nota
 
 ---
 
-## Un <span style="color: #FF8700">barber</span> pour n'importe qui 
+## Un <span style="color: #4682B4">barber</span> pour n'importe qui 
 
 Voici une photo d'un <span style="color: #FF8700">Axolotl</span> qui se fait couper les cheveux
 [![Photo](img/axolotl.jpg)](https://azhoxs.github.io)
 
 
 
-## <span style="color:#8A2BE2;">Contactez-nous</span>
+## <span style="color:#4682B4;">Contactez-nous</span>
 
 📍 **Adresse :**  
 123, Rue du Smoothie, 75000 Paris
@@ -70,7 +70,7 @@ Voici une photo d'un <span style="color: #FF8700">Axolotl</span> qui se fait cou
 
 ---
 
-## <span style="color:#FF4500;">Suivez-nous sur les réseaux sociaux</span>
+## <span style="color:#4682B4;">Suivez-nous sur les réseaux sociaux</span>
 
 - [Instagram](http://instagram.com/gentlematesbarbershop)
 - [Facebook](http://facebook.com/gentlematesbarbershop)
@@ -78,7 +78,7 @@ Voici une photo d'un <span style="color: #FF8700">Axolotl</span> qui se fait cou
 
 ---
 
-## <span style="color:#DC143C;">Horaires d'ouverture</span>
+## <span style="color:#4682B4;">Horaires d'ouverture</span>
 
 - **Lundi - Vendredi :** 10h00 - 19h00
 - **Samedi :** 9h00 - 18h00
@@ -86,6 +86,6 @@ Voici une photo d'un <span style="color: #FF8700">Axolotl</span> qui se fait cou
 
 ---
 
-### <span style="color:#FFD700;">Réservez dès maintenant pour une expérience unique et raffinée !</span>
+### <span style="color:#4682B4;">Réservez dès maintenant pour une expérience unique et raffinée !</span>
 
 
