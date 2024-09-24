@@ -6,7 +6,7 @@ layout: default
 
 [Lien vers une deuxième page](./another-page.html).
 
-# <span style="color:#FF6347;">✂️ **The Gentlemate's Barbershop**</span>
+# <span style="color:#FF6347;">✂️ **The Gentlemates Barbershop**</span>
 
 ![Image du barbershop](img/barbershop.jpg)
 
